@@ -1,6 +1,6 @@
 # Graylog-PAN-Content-Pack
 
-Graylog content pack for Palo Alto firewalls. The dashboards are based on an previous content-pack for Palo Alto that went 
+Graylog content pack for Palo Alto firewalls. The dashboards are based on a previous content-pack for Palo Alto that went 
 out of date. The extractors have been generated dynamically using Palo Alto documentation as reference 
 (using a script located here: https://gitlab.com/fastwalker/Graylog-Extractor-Template-Generator).
 
